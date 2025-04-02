@@ -1,0 +1,14 @@
+.Footer_outer_container {
+    margin: 30px;
+height: 100px;
+color: blue;
+display:flex;
+flex-direction: column;
+}
+.header_right{
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   list-style: none;
+}
