@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RobsanChimdi/NetflixClone/static/css/main.39935242.css",
+    "main.js": "/RobsanChimdi/NetflixClone/static/js/main.00a712bf.js",
+    "index.html": "/RobsanChimdi/NetflixClone/index.html",
+    "main.39935242.css.map": "/RobsanChimdi/NetflixClone/static/css/main.39935242.css.map",
+    "main.00a712bf.js.map": "/RobsanChimdi/NetflixClone/static/js/main.00a712bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39935242.css",
+    "static/js/main.00a712bf.js"
+  ]
+}
