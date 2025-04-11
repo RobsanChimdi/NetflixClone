@@ -1,0 +1,18 @@
+.bl{
+    color:blue;
+}
+.row{
+    display: flexbox;
+    margin: auto;
+    padding: auto;
+}
+.rows{
+    display: inline-flex;
+    margin:auto;
+    padding: auto;
+    width: 20%;
+    height: 200px;
+}
+.rows:hover{
+    transform: scale(1.08);
+}
